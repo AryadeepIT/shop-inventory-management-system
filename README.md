@@ -7,19 +7,19 @@ Skill used - Python, Preprocessing, Data Analysis
 3. Run and explore...
 
 
-**Demo -** 
-![Product Details](https://thumbs4.imagebam.com/e8/3a/fd/MEIRQZC_t.png)
-![demo-img](https://thumbs4.imagebam.com/70/d1/99/MEIRQZA_t.png)
+**Demo -**\
+![Product Details](https://thumbs4.imagebam.com/e8/3a/fd/MEIRQZC_t.png)\
+![demo-img](https://thumbs4.imagebam.com/70/d1/99/MEIRQZA_t.png)\
 
-**if user purchase more quantity beyond inventory availability -**
+**if user purchase more quantity beyond inventory availability -**\
 
-![beyond-limit](https://thumbs4.imagebam.com/23/0a/72/MEIRQZ8_t.png)
+![beyond-limit](https://thumbs4.imagebam.com/23/0a/72/MEIRQZ8_t.png)\
 
-**Inventory Updated depending on purchase - ** 
-![inventory-update](https://thumbs4.imagebam.com/22/89/49/MEIRQZ6_t.png)
+**Inventory Updated depending on purchase - ** \
+![inventory-update](https://thumbs4.imagebam.com/22/89/49/MEIRQZ6_t.png)\
 
-**If user decline to buy product as unavailability -** 
-![declined-to-buy](https://thumbs4.imagebam.com/f2/78/33/MEIRQZ5_t.png)
+**If user decline to buy product as unavailability -** \
+![declined-to-buy](https://thumbs4.imagebam.com/f2/78/33/MEIRQZ5_t.png)\
 
-**Sales Transaction History stores at Sales.txt file -**
+**Sales Transaction History stores at Sales.txt file -**\
 ![Sales](https://thumbs4.imagebam.com/cb/68/14/MEIRQZ3_t.png)
