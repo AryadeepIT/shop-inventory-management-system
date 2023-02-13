@@ -1,0 +1,25 @@
+1,Modern Bread,17,50
+2,Good Night Mosquito Refill,77,20
+3,Amul Taaza Milk,26,50
+4,Red Cow Milk,30,30
+5,Metro Toned Fresh Milk,26,40
+6,Thumps Up,36,10
+7,Sprite,38,0
+8,Limca,40,5
+9,Fanta,50,4
+10,Mountain Dew,40,8
+11,Bisleri Packaged Water,65,3
+12,Bisleri Water,20,10
+13,Lays Chips,20,50
+14,Kurkure Chips,20,48
+15,Uncle Chipps,20,30
+16,Doritos,30,10
+17,Bingo Chips,35,10
+18,ACT II popcorn,10,30
+19,Prabhuji Bhujia,247,5
+20,Mukharochak Chanachur,70,10
+21,Britannia Treat,20,15
+22,Winkies Tea Cake,124,3
+23,Britannia Toastea,40,5
+24,Fortune Mustard Oil,154,10
+25,Tata Salt,25,10
